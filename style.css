@@ -85,7 +85,7 @@ img {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  
+
 
   hr{
     margin-top: 0;
@@ -112,7 +112,6 @@ img {
     width: 100%;
     text-align: center;
     font-size: 30px;
-    margin-bottom: 30px;
   }
   #steps .row{
     background-color: white;
@@ -120,17 +119,25 @@ img {
   }
 
 
+
+
   #why .row>.first,
   #why .row>.second,
   #why .row>.third{
-    width: 100%;
+    width: 95%;
+    margin:auto;
     text-align: center;
     font-size: 30px;
+    margin-top: 20px;
     margin-bottom: 30px;
-  }
+
+    }
   #why .row{
     background-color: #f2f2cd;
     margin-top: 10px;
+  }
+  .first{
+
   }
 
 
